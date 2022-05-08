@@ -5,6 +5,8 @@ https://github.com/AI4Finance-Foundation/FinRL
 
 https://github.com/notadamking/RLTrader
 
+加密货币强化学习
+https://github.com/sadighian/crypto-rl
 
 FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks
 https://github.com/psnonis/FinBERT
